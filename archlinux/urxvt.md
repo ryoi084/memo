@@ -1,0 +1,2 @@
+http://malkalech.com/urxvt_terminal_emulator
+https://wiki.ubuntulinux.jp/UbuntuTips/JapaneseEnvironment/Fcitx#A.2BZyp4uluaZYdbV1IXMEwwpjCjMPMwyTCmMG5d5k4LMGuIaHk6MFUwjDCLMG4wZzABMKQw8zDpMKQw8zBniGh5OjBZMIswiDBGMGswVzBfMEQ-

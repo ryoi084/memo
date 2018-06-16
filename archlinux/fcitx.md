@@ -1,0 +1,1 @@
+http://archlinux-blogger.blogspot.com/2017/11/waylandfcitx.html
